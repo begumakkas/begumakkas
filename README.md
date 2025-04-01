@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hello, I'm Begüm 👋 
 
+I'm currently a graduate student at UChicago's [Computational Analysis and Public Policy](https://capp.uchicago.edu/) program. I'm passionate about leveraging data science for social improvement projects. My particular focus is on geospatial analysis and data visualization.  
+
+🌱 Currently learning: advanced geospatial techniques and its applications to machine learning models.  
+💬 Ask me about: my private repositories! Due to privacy reasons I cannot make them public but can provide upon request.  
+
+## Projects
+
+🌲 [Green Space Accessibility for Affordable Housing Buildings in Chicago]() (February 2025): Developed a comprehensive index combining park ratings, size, and walkable proximity to quantify the quality of public green space access for residents in affordable housing communities.
 <!--
 **begumakkas/begumakkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
