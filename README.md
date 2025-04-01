@@ -7,7 +7,7 @@ I'm a graduate student at UChicago's [Computational Analysis and Public Policy](
 
 ## Projects
 
-🌲 [Green Space Accessibility for Affordable Housing in Chicago](https://github.com/begumakkas/Green-Space-Access.git) (February 2025): Developed a comprehensive index combining park ratings, size, and walkable proximity to quantify the quality of public green space access for residents in affordable housing communities.
+🌲 [Green Space Accessibility for Affordable Housing in Chicago](https://github.com/begumakkas/Green-Space-Access.git) (February 2025): Developed an Accessibility Index combining park ratings, size, and walkable proximity to quantify the quality of public green space access for residents in affordable housing communities. Built a dashboard to visualize and interact with the Accessibility Index.
 
 Private repositories include but are not limited to:  
 - Simulating Voter Behavior at the Precinct Level
