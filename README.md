@@ -15,7 +15,6 @@ Private repositories include but are not limited to:
 - Custom Hash Table Built in Python
 - Text Authorship Inference Using Markov Chains
 - Web Crawling and Data Extraction Using lxml
-- Search Interface and Backend Built with SQLite
 - Entity Matching with Record Linkage Methods
 - Supervised Classification with Decision Trees, K-Nearest Neighbors
 
