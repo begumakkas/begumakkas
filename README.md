@@ -9,7 +9,10 @@ I'm a graduate student at UChicago's [Computational Analysis and Public Policy](
 
 🌲 [Green Space Accessibility for Affordable Housing in Chicago](https://github.com/begumakkas/Green-Space-Access.git) (February 2025): Developed an Accessibility Index combining park ratings, size, and walkable proximity to quantify the quality of public green space access for residents in affordable housing communities. Built a dashboard to visualize and interact with the Accessibility Index.
 
+🇹🇷 [Mapping 2023 Türkiye Earthquake](https://github.com/begumakkas/Mapping-Turkiye-Earthquake-2023.git) (Spring 2025): Leveraged ArcGIS Pro to assess the population and infrastructure impacts of the 2023 Türkiye earthquake. The project visualizes population shifts before and after the disaster and maps detailed building and road damage. Findings highlight the urgency of post-disaster rehabilitation and pinpoint priority areas for targeted recovery efforts.
+
 🗺️ Meta Data Analysis of Fraym's Product (Summer 2025): Built a dashboard using Python and Streamlit that samples and analyzes Fraym's ML ensemble model. Users are able to identify areas of inefficiency and improvement in the ensemble by using the dashboard. This is a private repository, but a demo video can be provided upon request. 
+
 
 Private repositories include but are not limited to:  
 - Simulating Voter Behavior at the Precinct Level
